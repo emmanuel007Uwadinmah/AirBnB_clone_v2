@@ -7,7 +7,7 @@ This repository contains the initial stage of a student project to build a clone
 <center><h3>Repository Contents by Project Task</h3> </center>
 
 Authors
-Uwadinmah Emmanuel olisemeka & Ojei Onuwa Kelvin
+Uwadinmah Emmanuel Olisemeka & Ojei Onuwa Kelvin
 <br>
 <br>
 <center> <h2>General Use</h2> </center>
